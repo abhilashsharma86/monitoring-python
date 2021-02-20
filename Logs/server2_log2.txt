@@ -1,0 +1,11 @@
+INFO this us my first log file
+INFO this us my first log file
+INFO this us my first log file
+INFO this us my first log file
+INFO this us my first log file
+ERROR: MODULE Disconnected
+INFO this us my first log file
+INFO this us my first log fileINFO this us my first log fileINFO this us my first log file
+
+INFO this us my first log file
+INFO this us my first log fileINFO this us my first log file
