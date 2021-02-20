@@ -1,0 +1,30 @@
+{
+    "MONITOR": {
+
+        "LOGS": [
+            {
+                "ID": "1",
+                "FILE_NAME": "server1_log1.txt",
+                "SEARCH_STRING": "ERROR: Server Disconnected",
+                "FILE_LOCATION": "/Users/abhilash/Documents/Workshop/LOGS"
+            },
+            {
+                "ID": "2",
+                "FILE_NAME": "server1_log2.txt",
+                "SEARCH_STRING": "ERROR: MODULE Disconnected",
+                "FILE_LOCATION": "/Users/abhilash/Documents/Workshop/LOGS"
+            }   
+        ],
+
+        "OTHER": [
+            {
+                "ID": "1",
+                "COMMAND": "ls"
+            },
+            {
+                "ID": "2",
+                "COMMAND": "pwd"
+            }   
+        ]
+    } 
+}
