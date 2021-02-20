@@ -1,0 +1,1 @@
+{"SERVERS": [{"ID": "1", "SERVER_NAME": "server1", "SERVER_IP_JSON": "server1_ip.json", "SERVER_OP_JSON": "server1_op.json", "SERVER_OUTPUT": 0}, {"ID": "2", "SERVER_NAME": "server2", "SERVER_IP_JSON": "server2_ip.json", "SERVER_OP_JSON": "server2_op.json", "SERVER_OUTPUT": 1}]}
